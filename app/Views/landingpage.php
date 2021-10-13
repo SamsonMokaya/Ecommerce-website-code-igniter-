@@ -38,7 +38,7 @@
           <div id="menuBtn">
             <img src="/assets/images/menu.png" alt="" id="menu">
          </div>
-         <section class="section-two" id="section-two" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">
+         <section class="section-two" id="section-two" >
                 <div>
                     <h1>About us</h1>
                 </div>
@@ -71,7 +71,7 @@
                     </div>
             </div>
         </section>
-        <section class="section-three" id="section-three" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+        <section class="section-three" id="section-three"  >
                 <div class="title-text">
                     <h1>Categories</h1>
                 </div>
@@ -137,7 +137,7 @@
                      </div>
                 </div>
           </section>
-          <section id="testimonial" data-aos="flip-right" data-aos-delay="100" data-aos-duration="1000">
+          <section id="testimonial">
             <div class="title-text">
                 <h1>Testimonials</h1>
                 <h3>From some of our satisfied customers</h3>
@@ -179,7 +179,7 @@
                 </div>
             </div>
         </section>
-        <section id="footer" data-aos="flip-left" data-aos-delay="100" data-aos-duration="1000">
+        <section id="footer">
               <div class="title-text">
                 <h1>Contact Us</h1>
              </div>
